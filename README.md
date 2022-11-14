@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sachin Sammanth R</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineer</h3>
 
+![frrole_lead](https://user-images.githubusercontent.com/88835704/201640521-7bc09eb9-1caa-4d4c-a036-da69947f8b68.gif)
+
 - 📫 How to reach me **sachinsammanth470@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VdwhbZA83DI6VENyXk9jGtaOa6t3Zo5J/view?usp=share_link](https://drive.google.com/file/d/1VdwhbZA83DI6VENyXk9jGtaOa6t3Zo5J/view?usp=share_link)
@@ -16,9 +18,5 @@
 ![Visitor Count](https://profile-counter.glitch.me/Sachinsammanth/count.svg)
 
 ![istockphoto-1365534802-170667a](https://user-images.githubusercontent.com/88835704/201639824-14e56ffc-9ce0-41e6-b9b3-3a21bcb97311.jpg)
-
-![frrole_lead](https://user-images.githubusercontent.com/88835704/201640521-7bc09eb9-1caa-4d4c-a036-da69947f8b68.gif)
-
-
 
 ![Snake animation](https://github.com/Sachinsammanth/Sachinsammanth/blob/output/github-contribution-grid-snake.svg)
