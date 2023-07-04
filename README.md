@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sachinsammanth470@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VdwhbZA83DI6VENyXk9jGtaOa6t3Zo5J/view?usp=share_link](https://drive.google.com/file/d/1VdwhbZA83DI6VENyXk9jGtaOa6t3Zo5J/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1VdwhbZA83DI6VENyXk9jGtaOa6t3Zo5J/view?usp=share_link](https://drive.google.com/file/d/1aMH4MIG8a4zJlqcjNBOtqocfYTzJ6ZvB/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
